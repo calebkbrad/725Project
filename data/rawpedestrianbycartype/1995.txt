@@ -1,0 +1,10 @@
+	Initial Point of Impact												
+	Front		Right Side		Left Side		Rear		Other/Unknown		Total		
+Vehicle Type	Front Number	Percent	Right Side Number	Percent1	Left Side Number	Percent2	Rear Number	Percent3	Other/Unknown Number	Percent4	Total Number	Percent5	
+
+Passenger Car	2544	89.0	70	2.4	67	2.3	34	1.2	143	5.0	2858	100.0	
+Light Truck	1384	88.8	41	2.6	30	1.9	34	2.2	70	4.5	1559	100.0	
+Large Truck	184	65.7	18	6.4	7	2.5	21	7.5	50	17.9	280	100.0	
+Bus	35	48.6	8	11.1	2	2.8	5	6.9	22	30.6	72	100.0	
+Other/Unknown Vehicle	165	48.4	6	1.8	8	2.3	0	0.0	162	47.5	341	100.0	
+Total	4312	84.4	143	2.8	114	2.2	94	1.8	447	8.7	5110	100.0	
